@@ -9,6 +9,7 @@ main {
 
 .image {
   max-width: 100%;
+  display: block;
 }
 .img-div {
   background-color: white;
