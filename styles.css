@@ -13,8 +13,10 @@ main {
 }
 .img-div {
   background-color: white;
+  padding: 10px;
 }
 .img-caption {
+  display: block;
 }
 .tribute-info {
   text-align: left;
