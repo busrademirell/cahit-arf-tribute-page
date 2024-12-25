@@ -1,2 +1,2 @@
-# A-tribute-page
+# tribute-page
 Freecodecamp project
