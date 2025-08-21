@@ -13,11 +13,11 @@
 
 ## 🎯 Amaç
 
-Bu proje, [freeCodeCamp](https://tribute-page.freecodecamp.rocks/) eğitimi kapsamında geliştirilmiş Tribute Page çalışmasıdır. Türk matematikçi Cahit Arf’ın hayatını, bilimsel katkılarını ve mirasını tanıtmak amacıyla hazırlanmıştır.
+Bu proje, freeCodeCamp eğitimi kapsamında geliştirilmiş [Tribute Page](https://tribute-page.freecodecamp.rocks/) çalışmasıdır. Türk matematikçi Cahit Arf’ın hayatını, bilimsel katkılarını ve mirasını tanıtmak amacıyla hazırlanmıştır.
 
 ## 🛠 Kullanılan Teknolojiler
 
-- **HTML →** Form yapısı, etiketler ve semantik düzenlemeler
+- **HTML →** Sayfa yapısı, yapısal düzen, etiketler ve semantik düzenlemeler
 - **CSS →** Tasarım, renkler, tipografi ve responsive düzen
 
 ---
@@ -44,9 +44,9 @@ Bu proje, [freeCodeCamp](https://tribute-page.freecodecamp.rocks/) eğitimi kaps
 
 - **line-height →** Metin satırları arasındaki dikey boşluğu ayarlayan bir özelliğidir. Satırların çok sıkışık veya çok uzak olmasını önleyerek metnin okunabilirliğini artırır.
 
-- **display: block; ->** Eleman, kendi satırını tamamen kaplar ve altındaki diğer elemanlar yeni bir satırda başlar. Örnek block elemanlar; div, p, h1-h6, section, article, main vb. elemanlardır.
+- **display: block; →** Eleman, kendi satırını tamamen kaplar ve altındaki diğer elemanlar yeni bir satırda başlar. Örnek block elemanlar; div, p, h1-h6, section, article, main vb. elemanlardır.
 
-- **cite ->** Kitap, makale, film, müzik veya diğer sanat eserlerinin başlıklarını belirtmek için kullanılan anlamsal (semantic) bir etikettir. Tarayıcılar varsayılan olarak metni italik gösterir, ancak i (italik) etiketi gibi yalnızca görsel amaçlı değildir; eserin başlığı olduğunu açıkça işaretler.
+- **cite →** Kitap, makale, film, müzik veya diğer sanat eserlerinin başlıklarını belirtmek için kullanılan anlamsal (semantic) bir etikettir. Tarayıcılar varsayılan olarak metni italik gösterir, ancak i (italik) etiketi gibi yalnızca görsel amaçlı değildir; eserin başlığı olduğunu açıkça işaretler.
 
 ---
 
