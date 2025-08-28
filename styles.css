@@ -1,0 +1,66 @@
+:root {
+  --color-white: #ffffff;
+  --color-gray: #eee;
+  --color-blue: #477ca7;
+}
+body {
+  padding-top: 30px;
+  padding-bottom: 20px;
+}
+#main {
+  background-color: var(--color-gray);
+  width: 100%;
+  max-width: 1400px;
+  margin: 0 auto;
+  text-align: center;
+  padding-bottom: 20px;
+  border-radius: 10px;
+}
+.container {
+  max-width: max-content;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+#img-div {
+  background-color: var(--color-white);
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 10px;
+}
+#image {
+  max-width: 100%;
+  display: block;
+  margin: 0 auto;
+  height: auto;
+}
+#img-caption {
+  text-align: center;
+}
+
+#tribute-info {
+  padding: 0; /* Remove default padding */
+  margin: 0 auto; /* Center the UL on the page */
+  max-width: 600px;
+  display: flex; /* Flex container */
+  flex-direction: column;
+  align-items: center; /* Center the LI elements */
+}
+
+#tribute-info li {
+  text-align: left;
+  margin-bottom: 20px; /* Line spacing */
+  font-family: "Segoe UI", "Roboto", "Helvetica Neue", Arial, sans-serif;
+  font-size: 1.2rem;
+}
+
+p {
+  line-height: 1.8;
+  font-size: 1.2rem;
+  font-style: italic;
+  font-family: "Segoe UI", "Roboto", "Helvetica Neue", Arial, sans-serif;
+}
+
+a {
+  color: var(--color-blue);
+}
