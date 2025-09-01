@@ -52,4 +52,4 @@ Bu proje, freeCodeCamp eğitimi kapsamında geliştirilmiş [Tribute Page](https
 
 ## 📷 Ekran Görüntüsü
 
-![TributePage](.gif)
+![TributePage](tribute.gif)

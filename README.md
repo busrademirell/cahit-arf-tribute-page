@@ -55,4 +55,4 @@ It was prepared to present the life, scientific contributions, and legacy of the
 
 ## 📷 Screenshot
 
-![TributePage](.gif)
+![TributePage](tribute.gif)
