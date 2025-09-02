@@ -1,13 +1,13 @@
  <p align="center">
-  <a href="https://github.com/busrademirell/tribute-page/blob/master/README.md">
+  <a href="https://github.com/busrademirell/cahit-arf-tribute-page/blob/master/README.md">
     <img alt="downloads" src="https://img.shields.io/badge/English-En-blue" target="_blank" />
   </a>
-  <a href="https://github.com/busrademirell/tribute-page/blob/master/doc/tr/Readme_tr.md">
+  <a href="https://github.com/busrademirell/cahit-arf-tribute-page/blob/master/doc/tr/Readme_tr.md">
     <img alt="License: MIT" src="https://img.shields.io/badge/Turkish-Tr-red" target="_blank" />
   </a>
 </p>
 
-# Freecodecamp Tribute Page Project
+# Cahit ARF Project
 
 ---
 
